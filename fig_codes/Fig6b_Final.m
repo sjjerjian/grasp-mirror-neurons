@@ -4,6 +4,7 @@
 
 corrtype  = 'Pearson';
 load('data_05132020.mat');
+load('data_05142020_simplePSTH.mat','Data');
 
 neurons2excl=[17 18];
 
